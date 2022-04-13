@@ -1,3 +1,6 @@
+# UnitTestWithJestInAngular
+This repository is created with the purpose of follow a best practices to include Unit Test Jest in Angular Projects.
+
 # AngularJest
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.2.
